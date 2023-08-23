@@ -1,0 +1,11 @@
+userName: kthithanh_eobAV5
+accessKey: mGk6RPZkkui8xGFU5b2U
+framework: python
+app: bs://5bb02c2da2ead2e6cc9d949678113d4d0934db83
+platforms:
+  - platformName: android
+    deviceName: Samsung Galaxy S22 Ultra
+    platformVersion: 12.0
+browserstackLocal: true
+buildName: tiktok
+projectName: tiktok tool
