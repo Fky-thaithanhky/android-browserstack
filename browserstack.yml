@@ -1,7 +1,7 @@
 userName: kthithanh_eobAV5
 accessKey: mGk6RPZkkui8xGFU5b2U
 framework: python
-app: bs://5bb02c2da2ead2e6cc9d949678113d4d0934db83
+app: ./titkok.apk
 platforms:
   - platformName: android
     deviceName: Samsung Galaxy S22 Ultra
